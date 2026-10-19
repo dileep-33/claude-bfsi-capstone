@@ -1,0 +1,22 @@
+[
+  {
+    "id": "B1",
+    "risk": "LOW",
+    "engine": "claude"
+  },
+  {
+    "id": "B2",
+    "risk": "HIGH",
+    "engine": "claude"
+  },
+  {
+    "id": "B3",
+    "risk": "LOW",
+    "engine": "claude"
+  },
+  {
+    "id": "B4",
+    "risk": "HIGH",
+    "engine": "claude"
+  }
+]
